@@ -8,6 +8,7 @@ Materialet ar gjort for att vara latt att dela med kollegor, visa pa lektion och
 
 - `ak7/` = losningsbibliotek for arskurs 7
 - `ak8/` = losningsbibliotek for arskurs 8
+- `ak9/` = losningsbibliotek for arskurs 9
 
 Varje arskurs ar uppdelad i undermappar efter vilken sida uppgifterna ligger pa i boken.
 
