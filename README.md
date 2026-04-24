@@ -4,6 +4,11 @@ Detta repo innehaller enkla losningsforslag till programmeringsuppgifter i Pytho
 
 Materialet ar byggt for att fungera som ett litet bibliotek av exempel som snabbt gar att visa pa lektion, dela med kollegor och anvanda som stod nar elever fastnar.
 
+## Mappar
+
+- roten i repot innehaller losningsforslag for arskurs 7
+- `ak8/` innehaller losningsforslag for arskurs 8
+
 ## Syfte
 
 Filerna ar skrivna for att vara:
